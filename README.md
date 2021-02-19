@@ -1,8 +1,18 @@
 # Java_basics
-- 基础语法
+- [基础语法](#jump_basics)
 - 面向对象
+- 接口
+- 集合
+- 异常
+- 范型
+- 反射
+- 注解
+- I/O
+- 图形化（Swing)
 
-# 基础语法
+
+
+# <span id="jump_basics">基础语法</span>
 
 # 面向对象
 
